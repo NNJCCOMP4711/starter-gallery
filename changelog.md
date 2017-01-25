@@ -4,30 +4,23 @@ Team membership:  NN (Captain) & JC (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## *Version x.x*
+## *Version 0.1*
 
-Release Date: Jul 26, 2027
+Release Date: Jan 25, 2017
 
-## New Components
-
--   controllers
-
-    -   serbian (AB)
     
 ## Updated Components
 
 -   controllers
 
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
+    -   welcome
+    -   about
+	- 	gallery
 
 -   views
 
-    -   slovenian (AB)
-    -   swedish
-
+    -   about
+    -   welcome
+	-	gallery
+	- 	template
 
